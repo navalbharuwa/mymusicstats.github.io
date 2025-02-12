@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mymusicstats
-        image: naval2020/k8s:latest
+        image: naval2020/mymusic
         ports:
         - containerPort: 80
